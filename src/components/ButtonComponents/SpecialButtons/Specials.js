@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { specialData } from '../../../data';
 import SpecialButton from './SpecialButton';
 
-//Import your array data to from the provided data file
+//Import your array data too from the provided data file
 
 function Specials(){
   // STEP 2 - add the imported data to state
